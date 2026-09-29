@@ -1,0 +1,11 @@
+{
+  "name":"Japz Project Estimator",
+  "short_name":"Japz Estimator",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f6f1e7",
+  "theme_color":"#24262a",
+  "description":"Philippine construction estimating application",
+  "icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
